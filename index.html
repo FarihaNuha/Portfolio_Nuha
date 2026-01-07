@@ -331,6 +331,39 @@
 
 
   <script>
+
+     /* ========================================
+     MOBILE MENU TOGGLE
+     ======================================== */
+  
+  const menuToggle = document.getElementById('menuToggle');
+  const nav = document.querySelector('nav');
+  
+  menuToggle.addEventListener('click', () => {
+    nav.classList.toggle('active');
+  });
+  
+  // Close menu when clicking on a nav link (for mobile)
+  document.querySelectorAll('nav a').forEach(link => {
+    link.addEventListener('click', () => {
+      if (window.innerWidth <= 768) {
+        nav.classList.remove('active');
+      }
+    });
+  });
+  
+  // Close menu when clicking outside (optional)
+  document.addEventListener('click', (e) => {
+    if (window.innerWidth <= 768 && 
+        !nav.contains(e.target) && 
+        !menuToggle.contains(e.target) && 
+        nav.classList.contains('active')) {
+      nav.classList.remove('active');
+    }
+  });
+
+    
+    
     /* ========================================
        SMOOTH SCROLL & ACTIVE NAV HIGHLIGHTING
        ======================================== */
