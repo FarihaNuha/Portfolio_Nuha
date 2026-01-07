@@ -57,7 +57,7 @@ _**Responsive Design:**_ Media queries for various screen sizes
 **Current:** 5th Semester Student  
 **CGPA:** 3.75 (Till 4th Semester)
 
-### Achievements 
+### Notable Achievements 
 - Paper publication in TELKOMNIKA Journal
 - Wadhwani Foundation Soft Skills program
 - Case Challenge top participant
