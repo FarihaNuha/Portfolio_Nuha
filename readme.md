@@ -26,7 +26,8 @@ _**Responsive Design:**_ Media queries for various screen sizes
 
 
 ## 📂 Folder Structure
- <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/a9d6c3db-c4f5-4eab-bff9-d48ec55db616" />
+ <img width="200" height="400" alt="image" src="https://github.com/user-attachments/assets/bee46a73-2b38-42c1-ba15-b484383bdd0c" />
+
 
 ## Sections Included
 1. **Home** - Introduction with typing animation
