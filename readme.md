@@ -54,9 +54,7 @@ _**Responsive Design:**_ Media queries for various screen sizes
 
 **Name:** Fariha Tasnim Nuha  
 **Field:** Educational Technology & Engineering  
-**University:** University of Frontier Technology, Bangladesh  
-**Current:** 5th Semester Student  
-**CGPA:** 3.75 (Till 4th Semester)
+**University:** University of Frontier Technology, Bangladesh   
 
 ### Notable Achievements 
 - Paper publication in TELKOMNIKA Journal
@@ -75,9 +73,6 @@ _**Responsive Design:**_ Media queries for various screen sizes
 - **Email:** farihanuha356@gmail.com
 - **LinkedIn:** [linkedin.com/in/fariha-tasnim-nuha-938090298](https://www.linkedin.com/in/fariha-tasnim-nuha-938090298/)
 - **GitHub:** [github.com/farihanuha](https://github.com/farihanuha)
-- **Facebook:** [facebook.com/shokal.sondha.75054689](https://www.facebook.com/shokal.sondha.75054689)
-- **Instagram:** [instagram.com/fariha_tasnim_nuha_](https://www.instagram.com/fariha_tasnim_nuha_/)
-
 
 ## Installation & Setup
 ### Local Development:
@@ -117,7 +112,7 @@ _**Responsive Design:**_ Media queries for various screen sizes
 
 - Design inspiration from modern portfolio trends
 
-- Support from University of Frontier Technology
+- Support from University of Frontier Technology, Bangladesh
 
-## 📝 License
+## License
 © 2025 Fariha Tasnim Nuha. All rights reserved.
